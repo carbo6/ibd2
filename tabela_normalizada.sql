@@ -294,11 +294,11 @@ termo VARCHAR(45),
 codigo REAL, 
 PRIMARY KEY (id_vcge) 
 ); 
-INSERT INTO vcges (id_vcge;termo;codigo) VALUES (1,"Outros em pesquisa e desenvolvimento",25.153); 
-INSERT INTO vcges (id_vcge;termo;codigo) VALUES (2,"Educação superior",7.125); 
-INSERT INTO vcges (id_vcge;termo;codigo) VALUES (3,"Telecomunicações",19.183); 
-INSERT INTO vcges (id_vcge;termo;codigo) VALUES (4,"Educação básica",7.123); 
-INSERT INTO vcges (id_vcge;termo;codigo) VALUES (5,"Outros em comunicações",19.143); 
+INSERT INTO vcges (id_vcge,termo,codigo) VALUES (1,"Outros em pesquisa e desenvolvimento",25.153); 
+INSERT INTO vcges (id_vcge,termo,codigo) VALUES (2,"Educação superior",7.125); 
+INSERT INTO vcges (id_vcge,termo,codigo) VALUES (3,"Telecomunicações",19.183); 
+INSERT INTO vcges (id_vcge,termo,codigo) VALUES (4,"Educação básica",7.123); 
+INSERT INTO vcges (id_vcge,termo,codigo) VALUES (5,"Outros em comunicações",19.143); 
 
 
 
