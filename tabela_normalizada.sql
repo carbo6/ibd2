@@ -121,19 +121,19 @@ INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lanca
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2017-023B","SGDC",5800,3,3,1,12,3,3,1); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1998-067KT","Tancredo-1",0.75,4,4,2,5,2,4,2); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1998-067GX","SERPENS",4,5,4,2,6,4,2,2); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1998-067FM","AESP 14",1,6,5,99,3,4,2,3); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1998-067FM","AESP 14",1,6,5,3,3,4,2,3); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2014-079A","CBERS4",1980,7,1,2,1,1,1,1); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2014-033Q","NANOSATC BR1",1,8,6,2,1,4,1,1); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2013-F03","CBERS3",2000,9,1,99,1,1,1,3); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2013-F03","CBERS3",2000,9,1,3,1,1,1,3); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2007-042A","CBERS2B",1450,10,1,2,1,1,1,2); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2003-049A","CBERS 2",1540,11,1,2,1,1,1,2); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2003-E01","UNOSAT",9,12,7,99,7,4,5,4); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2003-E01","SATEC",65,12,7,99,1,4,1,4); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1999-F05","SACI 2",80,13,7,99,1,5,2,4); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1999-057B","SACI 1",60,14,1,99,1,5,2,3); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2003-E01","UNOSAT",9,12,7,3,7,4,5,4); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2003-E01A","SATEC",65,12,7,3,1,4,1,4); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1999-F05","SACI 2",80,13,7,3,1,5,2,4); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1999-057B","SACI 1",60,14,1,3,1,5,2,3); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1999-057A","CBERS 1",1540,14,1,2,1,1,1,2); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1998-060A","SCD 2",117,15,8,2,1,1,1,1); 
-INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1997-F03","SCD 2A",115,16,9,99,1,1,1,4); 
+INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1997-F03","SCD 2A",115,16,9,3,1,1,1,4); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1993-009B","SCD 1",115,17,8,2,1,1,1,1); 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("1990-005E","DOVE-Oscar17",13,18,3,2,13,4,4,2); 
 
@@ -163,7 +163,7 @@ INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES
 INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (16,"2003-049A",9); 
 INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (17,"2003-049A",1); 
 INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (18,"2003-E01",7); 
-INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (19,"2003-E01",1); 
+INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (19,"2003-E01A",1); 
 INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (20,"1999-F05",1); 
 INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (21,"1999-057B",1); 
 INSERT INTO satelites_fabricantes (id_fabricante,fk_satelite,fk_entidade) VALUES (22,"1999-057A",9); 
@@ -200,7 +200,7 @@ INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funca
 INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (17,"2007-042A",1); 
 INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (18,"2003-049A",1); 
 INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (19,"2003-E01",14); 
-INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (20,"2003-E01",15); 
+INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (20,"2003-E01A",15); 
 INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (21,"1999-F05",7); 
 INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (22,"1999-057B",7); 
 INSERT INTO satelites_funcoes_especificas (id_especificacao,fk_satelite,fk_funcao_especifica) VALUES (23,"1999-057A",1); 
@@ -231,7 +231,7 @@ INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VA
 INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (12,"2007-042A",1); 
 INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (13,"2003-049A",1); 
 INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (14,"2003-E01",7); 
-INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (15,"2003-E01",1); 
+INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (15,"2003-E01A",1); 
 INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (16,"1999-F05",1); 
 INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (17,"1999-057B",1); 
 INSERT INTO satelites_proprietarios (id_proprietario,fk_satelite,fk_entidade) VALUES (18,"1999-057A",8); 
@@ -286,11 +286,12 @@ PRIMARY KEY (id_orbita)
 
 INSERT INTO tipos_orbitas (id_orbita,nome_orbita) VALUES (1,"GEO"); 
 INSERT INTO tipos_orbitas (id_orbita,nome_orbita) VALUES (2,"LEO"); 
+INSERT INTO tipos_orbitas (id_orbita,nome_orbita) VALUES (3,"Indeterminada"); 
 
 CREATE TABLE [vcges] ( 
 id_vcge INT, 
 termo VARCHAR(45), 
-codigo INT, 
+codigo REAL, 
 PRIMARY KEY (id_vcge) 
 ); 
 INSERT INTO vcges (id_vcge;termo;codigo) VALUES (1,"Outros em pesquisa e desenvolvimento",25.153); 
