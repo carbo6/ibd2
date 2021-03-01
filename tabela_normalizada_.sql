@@ -112,7 +112,6 @@ fk_principal_entidade_brasileira INT,
 fk_funcao_generica INT,
 fk_vcge INT,
 fk_status INT,
-PRIMARY KEY (id_satelite) 
 ); 
 
 INSERT INTO satelites (id_satelite,nome_satelite,massa_inicial,fk_tempo,fk_lancamento,fk_orbita,fk_principal_entidade_brasileira,fk_funcao_generica,fk_vcge,fk_status) VALUES ("2019-093E","CBERS 4A",1980,1,1,2,1,1,1,1); 
