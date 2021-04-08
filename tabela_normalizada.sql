@@ -4,7 +4,6 @@ nome_entidade VARCHAR(45),
 pais_entidade VARCHAR(45), 
 PRIMARY KEY (id_entidade) 
 ); 
-INSERT INTO entidades (id_entidade,nome_entidade,pais_entidade) VALUES (1,"INPE","Brasil"); 
 INSERT INTO entidades (id_entidade,nome_entidade,pais_entidade) VALUES (2,"UFSC","Brasil"); 
 INSERT INTO entidades (id_entidade,nome_entidade,pais_entidade) VALUES (3,"ITA","Brasil"); 
 INSERT INTO entidades (id_entidade,nome_entidade,pais_entidade) VALUES (4,"Telebrás","Brasil"); 
